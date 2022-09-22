@@ -1,0 +1,119 @@
+h1{
+    position: relative;
+        font-size: 5em;
+        color: white;
+       
+        line-height: 0.70em;
+        
+      margin: 0%;
+      margin-top: 5%;
+      width: 30%;
+      display: inline-block;
+      /* text-decoration: none; */
+    
+    }
+    
+    h3{
+        font-size: 1.5em;
+        text-align: center;
+    }
+.aaa{ border: 1em inset blue;
+    height: 13em;
+  
+
+}
+   
+    h2{
+        font-size: 3em;
+        display: inline-block;
+        margin-top: -5%;
+
+    }
+.DD{
+    text-align: center;
+    font-size: 1.5em;
+}
+    body{
+        background: url(back.png);
+        color: white;
+    }
+*{
+    color: white;
+    font-family: Papyrus;
+}
+
+.num{
+    font-size:12em;
+   margin:0%;
+   float: right;
+   margin-right: 36%;
+    
+    
+}
+
+
+
+img{
+    width: 30%;
+    margin-left: 35%;
+    height: 20em;
+    margin-top: 4.5%;
+}
+
+
+nav{
+    display: flex;
+    align-items:center;
+    /* align-content: space-between; */
+    /* flex-direction: column-reverse; */
+    justify-content: space-evenly;
+    /* padding-top:1px; */
+    /* padding-left: 10%;
+    padding-right:10% ; */
+    /* background-color: white; */
+    font-family: Papyrus;
+    margin-left: 10%;
+    /* margin-right: 10%;  */
+    font-size:1.5em;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-right: -3%;
+    }
+    nav ul li{
+        list-style-type: none;
+        display:inline-block;
+        padding:0.5px 60px;
+        background-color: none;
+    }
+    nav ul li a{
+        color:white;
+        text-decoration: none;
+        font-weight:bold;
+        background-color: none;
+        
+    }
+    nav ul li a:hover{
+        color:blue;
+        transition:0.3s;
+        
+    }
+   div{
+    margin: 2px;
+    height: 10%;
+    
+   }
+   .box{
+    height:40px;
+    
+}
+
+.IL{
+    color: white;
+    /* margin-left: 44%; */
+    font-size: 1.8em;
+    text-decoration: overline underline;
+    text-decoration-color: blue;
+    text-decoration-thickness:  3px;
+   
+}
+
